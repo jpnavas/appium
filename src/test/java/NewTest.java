@@ -145,11 +145,11 @@ public class NewTest {
 		
 		
 //		MobileElement correo = driver.findElement(By.xpath("//*[@class='android.view.ViewGroup' and @bounds='[14,255][1066,356]']"));
-//		correo.sendKeys("jpablo-na993@hotmail.com");
+//		correo.sendKeys("escribir correo");
 //		Thread.sleep(9000); 
 //		
 //		MobileElement password = driver.findElement(By.xpath("//*[@class='android.view.ViewGroup' and @bounds='[14,464][1066,565]']"));
-//		password.sendKeys("");
+//		password.sendKeys("escribir password");
 //		Thread.sleep(9000);
 	}
 
